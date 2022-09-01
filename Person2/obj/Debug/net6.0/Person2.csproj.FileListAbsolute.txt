@@ -1,0 +1,15 @@
+/Users/lucas/Projects/Person2/Person2/obj/Debug/net6.0/Person2.csproj.AssemblyReference.cache
+/Users/lucas/Projects/Person2/Person2/obj/Debug/net6.0/Person2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Projects/Person2/Person2/obj/Debug/net6.0/Person2.AssemblyInfoInputs.cache
+/Users/lucas/Projects/Person2/Person2/obj/Debug/net6.0/Person2.AssemblyInfo.cs
+/Users/lucas/Projects/Person2/Person2/obj/Debug/net6.0/Person2.csproj.CoreCompileInputs.cache
+/Users/lucas/Projects/Person2/Person2/bin/Debug/net6.0/Person2
+/Users/lucas/Projects/Person2/Person2/bin/Debug/net6.0/Person2.deps.json
+/Users/lucas/Projects/Person2/Person2/bin/Debug/net6.0/Person2.runtimeconfig.json
+/Users/lucas/Projects/Person2/Person2/bin/Debug/net6.0/Person2.dll
+/Users/lucas/Projects/Person2/Person2/bin/Debug/net6.0/Person2.pdb
+/Users/lucas/Projects/Person2/Person2/obj/Debug/net6.0/Person2.dll
+/Users/lucas/Projects/Person2/Person2/obj/Debug/net6.0/refint/Person2.dll
+/Users/lucas/Projects/Person2/Person2/obj/Debug/net6.0/Person2.pdb
+/Users/lucas/Projects/Person2/Person2/obj/Debug/net6.0/Person2.genruntimeconfig.cache
+/Users/lucas/Projects/Person2/Person2/obj/Debug/net6.0/ref/Person2.dll
