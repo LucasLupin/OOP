@@ -1,0 +1,15 @@
+/Users/lucas/Projects/OOP001/OOP001/bin/Debug/net6.0/OOP001
+/Users/lucas/Projects/OOP001/OOP001/bin/Debug/net6.0/OOP001.deps.json
+/Users/lucas/Projects/OOP001/OOP001/bin/Debug/net6.0/OOP001.runtimeconfig.json
+/Users/lucas/Projects/OOP001/OOP001/bin/Debug/net6.0/OOP001.dll
+/Users/lucas/Projects/OOP001/OOP001/bin/Debug/net6.0/OOP001.pdb
+/Users/lucas/Projects/OOP001/OOP001/obj/Debug/net6.0/OOP001.csproj.AssemblyReference.cache
+/Users/lucas/Projects/OOP001/OOP001/obj/Debug/net6.0/OOP001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Projects/OOP001/OOP001/obj/Debug/net6.0/OOP001.AssemblyInfoInputs.cache
+/Users/lucas/Projects/OOP001/OOP001/obj/Debug/net6.0/OOP001.AssemblyInfo.cs
+/Users/lucas/Projects/OOP001/OOP001/obj/Debug/net6.0/OOP001.csproj.CoreCompileInputs.cache
+/Users/lucas/Projects/OOP001/OOP001/obj/Debug/net6.0/OOP001.dll
+/Users/lucas/Projects/OOP001/OOP001/obj/Debug/net6.0/refint/OOP001.dll
+/Users/lucas/Projects/OOP001/OOP001/obj/Debug/net6.0/OOP001.pdb
+/Users/lucas/Projects/OOP001/OOP001/obj/Debug/net6.0/OOP001.genruntimeconfig.cache
+/Users/lucas/Projects/OOP001/OOP001/obj/Debug/net6.0/ref/OOP001.dll
