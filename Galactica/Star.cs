@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Galactica
 {
-    // Create enum with startypes.
+    // This Make a enum With Starttypes.
     enum StarType { YellowDwarf, White, BlueNeutron, RedGiant }
 
     // Inherit from Parent Class SpaceObjects.
@@ -11,10 +11,10 @@ namespace Galactica
         public StarType Type { get; set; }
         public int Temperature { get; set; }
 
-    // Create a list of planets.
+    // Make a list of planets.
         public List<Planet>? PlanetList { get; set; }
 
-    // Coordinates of the Sun must always be 0,0.
+    // Coordinates of the Sun should always be 0,0.
 
         public override Position? Pos { get; set; } = new Position() { X = 0, Y = 0 };
     }

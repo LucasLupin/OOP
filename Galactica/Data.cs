@@ -8,16 +8,8 @@
 
         public Data()
         {
-    // List Over one way to make 3 planets and add them to an List. 
-            planets = new List<Planet>()
-        {
-            new Planet(){ Name = "Mercury", Diameter = 4879, RevolutionPeriod = 88, RotationPeriod = 1407, Id = 0, Type = PlanetType.Terrestial,
-            Pos = new SpaceObjects.Position{X = 0, Y = 1 }},
-            new Planet(){ Name = "Venus  ", Diameter = 12104, RevolutionPeriod = 224, RotationPeriod = -5832, Id = 1, Type = PlanetType.Terrestial,
-            Pos = new SpaceObjects.Position{X = 3, Y = 4 }},
-            new Planet(){ Name = "Pluto  ", Diameter = 2376, RevolutionPeriod = 90560, RotationPeriod = 153, Id =8, Type = PlanetType.Dwarf,
-            Pos = new SpaceObjects.Position{X = 150, Y = 99 }}
-        };
+            planets = new List<Planet>();
+
             AddPlanets();
 
             Sun.PlanetList = planets;
@@ -39,6 +31,28 @@
             };
             // Add Earth moons to an Earth moon list.
             earth.MoonList = new() { new Moon { Name = "Luna", Orbiting = earth, Pos = new SpaceObjects.Position() { X = 1, Y = 0 } } };
+
+            Planet venus = new Planet()
+            {
+                Name = "Venus  ",
+                Diameter = 12104,
+                RevolutionPeriod = 224,
+                RotationPeriod = -5832,
+                Id = 1,
+                Type = PlanetType.Terrestial,
+                Pos = new SpaceObjects.Position { X = 3, Y = 4 }
+            };
+
+            Planet mercury = new Planet()
+            {
+                Name = "Mercury",
+                Diameter = 4879,
+                RevolutionPeriod = 88,
+                RotationPeriod = 1407,
+                Id = 0,
+                Type = PlanetType.Terrestial,
+                Pos = new SpaceObjects.Position { X = 0, Y = 1 }
+            };
 
             Planet mars = new Planet()
             {
@@ -115,13 +129,26 @@
                 Pos = new SpaceObjects.Position { X = -75, Y = -82 }
             };
 
-        // Here add you every planet to the list.
+            Planet pluto = new Planet()
+            {
+                Name = "Pluto  ",
+                Diameter = 2376,
+                RevolutionPeriod = 90560,
+                RotationPeriod = 153,
+                Id = 8,
+                Type = PlanetType.Dwarf,
+                Pos = new SpaceObjects.Position { X = 150, Y = 99 }
+            };
+
+            // Here add you every planet to the list.
             planets.Add(earth);
+            planets.Add(venus);
             planets.Add(mars);
             planets.Add(jupiter);
             planets.Add(saturn);
             planets.Add(uranus);
             planets.Add(neptune);
+            planets.Add(pluto);
         }
     }
 

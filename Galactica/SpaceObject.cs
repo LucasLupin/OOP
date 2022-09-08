@@ -9,13 +9,13 @@ namespace Galactica
 
         public virtual Position? Pos { get; set; }
 
-    // Create nested class Position consisting of two coordinates: X, Y.
+    // Make an nested class Position consisting of two coordinates: X, Y.
         public class Position
         {
             public int X { get; set; }
             public int Y { get; set; }
         }
-    // position overrides tostring and returns values: (X, Y).
+    // position overrides tostring and returns values in (X, Y).
         public override string ToString()
         {
             if (Pos != null)
