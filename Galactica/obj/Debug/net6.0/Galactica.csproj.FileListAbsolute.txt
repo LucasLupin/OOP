@@ -1,0 +1,15 @@
+/Users/lucas/Projects/Galactica/Galactica/bin/Debug/net6.0/Galactica
+/Users/lucas/Projects/Galactica/Galactica/bin/Debug/net6.0/Galactica.deps.json
+/Users/lucas/Projects/Galactica/Galactica/bin/Debug/net6.0/Galactica.runtimeconfig.json
+/Users/lucas/Projects/Galactica/Galactica/bin/Debug/net6.0/Galactica.dll
+/Users/lucas/Projects/Galactica/Galactica/bin/Debug/net6.0/Galactica.pdb
+/Users/lucas/Projects/Galactica/Galactica/obj/Debug/net6.0/Galactica.csproj.AssemblyReference.cache
+/Users/lucas/Projects/Galactica/Galactica/obj/Debug/net6.0/Galactica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Projects/Galactica/Galactica/obj/Debug/net6.0/Galactica.AssemblyInfoInputs.cache
+/Users/lucas/Projects/Galactica/Galactica/obj/Debug/net6.0/Galactica.AssemblyInfo.cs
+/Users/lucas/Projects/Galactica/Galactica/obj/Debug/net6.0/Galactica.csproj.CoreCompileInputs.cache
+/Users/lucas/Projects/Galactica/Galactica/obj/Debug/net6.0/Galactica.dll
+/Users/lucas/Projects/Galactica/Galactica/obj/Debug/net6.0/refint/Galactica.dll
+/Users/lucas/Projects/Galactica/Galactica/obj/Debug/net6.0/Galactica.pdb
+/Users/lucas/Projects/Galactica/Galactica/obj/Debug/net6.0/Galactica.genruntimeconfig.cache
+/Users/lucas/Projects/Galactica/Galactica/obj/Debug/net6.0/ref/Galactica.dll
