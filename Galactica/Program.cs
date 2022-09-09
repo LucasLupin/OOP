@@ -18,7 +18,7 @@ foreach (Planet p in data.Sun.PlanetList)
         Console.WriteLine("Moons: ");
         foreach (Moon m in p.MoonList)
         {
-            Console.WriteLine($"\t{m.Name}");
+            Console.WriteLine($"\t{m.Name} {m.ToString()} {m.Distance() }");
         }
     }
 }
