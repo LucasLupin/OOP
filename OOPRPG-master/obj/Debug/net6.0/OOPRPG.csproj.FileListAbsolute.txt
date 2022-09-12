@@ -1,0 +1,5 @@
+/Users/lucas/Downloads/OOPRPG-master/obj/Debug/net6.0/OOPRPG.csproj.AssemblyReference.cache
+/Users/lucas/Downloads/OOPRPG-master/obj/Debug/net6.0/OOPRPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Downloads/OOPRPG-master/obj/Debug/net6.0/OOPRPG.AssemblyInfoInputs.cache
+/Users/lucas/Downloads/OOPRPG-master/obj/Debug/net6.0/OOPRPG.AssemblyInfo.cs
+/Users/lucas/Downloads/OOPRPG-master/obj/Debug/net6.0/OOPRPG.csproj.CoreCompileInputs.cache
